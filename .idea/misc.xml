@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_dark.xml" value="0.1480978260869565" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_detail.xml" value="0.1480978260869565" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_help.xml" value="0.1480978260869565" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_homepage.xml" value="0.12360688956433637" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_main.xml" value="0.1480978260869565" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_movie_search.xml" value="0.1480978260869565" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_movielist.xml" value="0.1480978260869565" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_search_bar.xml" value="0.1480978260869565" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_search_main.xml" value="0.1480978260869565" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_search_series.xml" value="0.1480978260869565" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_series_list.xml" value="0.1480978260869565" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_series_suggestions.xml" value="0.1480978260869565" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_series_watchlist.xml" value="0.1480978260869565" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_signup.xml" value="0.1480978260869565" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_suggestions.xml" value="0.1480978260869565" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_watchlist.xml" value="0.1480978260869565" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/activity_wishlist.xml" value="0.1480978260869565" />
+        <entry key="..\:/Vallagtesena/app/src/main/res/layout/baymaxmovie.xml" value="0.1480978260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
